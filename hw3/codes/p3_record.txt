@@ -1,0 +1,328 @@
+On=True d_p=0.01 d_v=0.001 gamma=1.0 alpha=0.5
+#Iterations in rullout:422
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10024
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10018
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10227
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10040
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10122
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10203
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10148
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10067
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10184
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10156
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10135
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10055
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10224
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10088
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10158
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10196
+On=True d_p=0.001 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10191
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:10054
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:50001
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:50001
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:50001
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.5
+#Iterations in rullout:50001
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.4
+#Iterations in rullout:50001
+On=True d_p=0.01 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.4
+#Iterations in rullout:812
+On=True d_p=0.01 d_v=0.0001 gamma=1.0 alpha=0.5 eps=0.4
+#Iterations in rullout:50001
+On=True d_p=0.01 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.4
+#Iterations in rullout:503
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.4
+#Iterations in rullout:50001
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.9
+#Iterations in rullout:50001
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:293
+On=True d_p=0.01 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:552
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:385
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:312
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:353
+On=True d_p=0.1 d_v=0.0001 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:496
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:293
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.01
+#Iterations in rullout:50001
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:50001
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:243
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:50001
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:236
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:50001
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.05
+#Iterations in rullout:1417
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.2 eps=0.05
+#Iterations in rullout:216
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:209
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:289
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:165
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:162
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:339
+On=True d_p=0.1 d_v=0.001 gamma=0.5 alpha=0.1 eps=0.05
+#Iterations in rullout:254
+On=True d_p=0.1 d_v=0.001 gamma=0.5 alpha=0.1 eps=0.05
+#Iterations in rullout:310
+On=True d_p=0.1 d_v=0.01 gamma=0.5 alpha=0.1 eps=0.05
+#Iterations in rullout:189
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:193
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:152
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:152
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:231.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:193.0
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.05
+#Iterations in rullout:264.0
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.05
+#Iterations in rullout:143.0
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.05
+#Iterations in rullout:191.9
+On=True d_p=0.1 d_v=0.001 gamma=0.9 alpha=0.1 eps=0.05
+#Iterations in rullout:149.6
+On=False d_p=0.1 d_v=0.001 gamma=0.9 alpha=0.1 eps=0.05
+#Iterations in rullout:301.0
+On=False d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.05
+#Iterations in rullout:199.7
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:183.7
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:301.0
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:229.7
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:176.1
+On=False d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:180.7
+On=False d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:167.83333333333334
+On=False d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:169.16
+On=False d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:170.652
+On=True d_p=0.1 d_v=0.001 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:145.08
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:173.17
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:190.1
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:241.82
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:178.96
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:167.86
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:187.16
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:161.2
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:155.97
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:206.37
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:176.36
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.8 eps=0.1
+#Iterations in rullout:280.28
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.4 eps=0.1
+#Iterations in rullout:204.8
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.4 eps=0.2
+#Iterations in rullout:251.27
+On=False d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.1
+#Iterations in rullout:162.29
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.1
+#Iterations in rullout:165.47
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:137.33
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:146.77
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:199.79
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.1
+#Iterations in rullout:177.65
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.5 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.05 eps=0.1
+#Iterations in rullout:159.54
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.05 eps=0.2
+#Iterations in rullout:155.36
+On=True d_p=0.1 d_v=0.01 gamma=0.9 alpha=0.1 eps=0.05
+#Iterations in rullout:216.57
+On=True d_p=0.1 d_v=0.01 gamma=0.99 alpha=0.05 eps=0.05
+#Iterations in rullout:139.3
+On=True d_p=0.1 d_v=0.01 gamma=0.99 alpha=0.1 eps=0.3
+#Iterations in rullout:151.11
+On=True d_p=0.1 d_v=0.01 gamma=0.99 alpha=0.1 eps=0.7
+#Iterations in rullout:171.12
+On=True d_p=0.1 d_v=0.01 gamma=0.99 alpha=0.1 eps=0.01
+#Iterations in rullout:150.94
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.01
+#Iterations in rullout:152.57
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:152.45
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:197.46
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:158.47
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:192.87
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:204.79
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:195.39
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.05
+#Iterations in rullout:161.38
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:149.37
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:250.18
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:219.3
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:154.11
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:149.37
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:170.34
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:298.46
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.5
+#Iterations in rullout:188.69
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.5
+#Iterations in rullout:280.71
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.5
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.5
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.5
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.5
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.5
+#Iterations in rullout:176.63
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:143.8
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:211.7
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:143.98
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:173.49
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:155.3
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:232.79
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:184.45
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:151.51
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.01 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:207.73
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.5 eps=0.1
+#Iterations in rullout:292.81
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.9 eps=0.1
+#Iterations in rullout:301.0
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:150.23
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:144.94
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:165.8
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:182.28
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:147.8
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:178.01
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:204.85
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:159.55
+On=True d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:151.25
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:152.62
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.1 eps=0.1
+#Iterations in rullout:148.0
+On=False d_p=0.1 d_v=0.01 gamma=1.0 alpha=0.001 eps=0.1
+#Iterations in rullout:298.45
